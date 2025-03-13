@@ -11,12 +11,12 @@ def circleCircunference(radio):
     print(f"La circunferencia es de {circunf}")
     return circunf
 
-firstName = "Angie"
-lastName = "Palos"
-fullName = "Angie Palos"
+firstName = "vale"
+lastName = "rodriguez"
+fullName = "vale rodriguez"
 country = "México"
 city = "Aguascalientes"
-age = 18
+age = 19
 year = 2006
 isMarried = False
 isTrue = True

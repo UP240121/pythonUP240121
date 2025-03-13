@@ -1,7 +1,7 @@
 import math
 
-age = int(18)       
-height = float(1.70)
+age = int(19)       
+height = float(1.68)
 numComplex = 7 + 9j
 
 base = float(input("Enter the base:"))
